@@ -523,6 +523,13 @@ Pake's development can not be without these Hackers. They contributed a lot of c
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/revjkramer">
+                    <img src="https://avatars.githubusercontent.com/u/59654205?v=4" width="90;" alt="revjkramer"/>
+                    <br />
+                    <sub><b>revjkramer</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/hetz">
                     <img src="https://avatars.githubusercontent.com/u/820141?v=4" width="90;" alt="hetz"/>
                     <br />
